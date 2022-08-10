@@ -3,11 +3,10 @@ $primary: #081f37;
 $enable-shadows: true;
 $prefix: "mo-";
 $carousel-control-icon-width: 1rem;
-.carousel-item {
-    img {
-        height: 20 px;
-    }
-}
-
+// .carousel-item {
+//     img {
+//         height: 20 px;
+//     }
+// }
 // Then import Bootstrap
 @import "../../node_modules/bootstrap/scss/bootstrap.scss"
